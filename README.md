@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wabwire10
 - 👀 I’m interested in C, C#,java, javascript, python,asp.net
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning software engineering at APTECH, Uganda
 - 💞️ I’m looking to collaborate on asp.net
 - 📫 How to reach me wabwireivan@gmail.com
 
